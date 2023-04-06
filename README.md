@@ -4,4 +4,5 @@ Used complex parameters to drill down in worksheet and customization using filte
 Improved the hiring process
 Made workplace more productive 
 Improved employees experience
-![image](https://user-images.githubusercontent.com/61268962/230310630-67d1ecf0-ce36-4102-9adf-4fd18f810c31.png)
+![Screenshot (292)](https://user-images.githubusercontent.com/61268962/230310817-c5832acd-4e15-4c05-9788-34e2b78edf49.png)
+
